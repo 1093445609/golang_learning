@@ -1,5 +1,6 @@
 package main
 
+/*变量的声明*/
 import "fmt"
 
 //1.声明全局变量
