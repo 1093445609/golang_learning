@@ -25,5 +25,9 @@ ______
 2.demo02                入门之 go build 与go run 
 
 3.demo03                入门之变量 var
+
+4.demo04               go容器 数组与切片
+
+5.demo05               go控制流程
 ~~~~~~~~
 
