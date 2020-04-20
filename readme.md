@@ -32,6 +32,14 @@ ______
 
 6.demo06              go函数
 
+7.demo07              go结构体
 
+8.demo08              go io读写
+
+9.demo09              go 接口
+
+10.demo10              http
+
+11.demo11              轻量级并发
 ~~~~~~~~
 
